@@ -1,0 +1,4 @@
+# Para arquivos C compilados
+*.o
+*.exe 
+*.out 
