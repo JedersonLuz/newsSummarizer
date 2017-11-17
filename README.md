@@ -1,2 +1,2 @@
-# Sumarizador-de-Not-cias
+# News Summarizer
 Trabalho prático da disciplina de Algoritmos e Programação II
