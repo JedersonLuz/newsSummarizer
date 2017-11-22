@@ -1,3 +1,7 @@
+/*
+ *@authors: Jederson Luz, Vitória Carvalho e João Victor
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -11,7 +15,7 @@ typedef struct {
 char ** selectImportantWords (char **words, int size) {
   int i;
   for (i = 0; i < size; i++) {
-
+	
   }
   return words;
 }
